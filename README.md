@@ -2,6 +2,8 @@
 
 Live Weather Tracker is a web application built with Flask and OpenWeatherAPI that allows you to track the weather in different locations in real-time.
 
+![Live Weather](example.png)
+
 ## Installation
 
 1. Clone the repository to your local machine:
