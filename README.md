@@ -16,7 +16,6 @@ source env/bin/activate
 3. Install the required packages listed in `requirements.txt`:
 ```
 pip install -r requirements.txt
-
 ```
 4. Run the application:
 ```
